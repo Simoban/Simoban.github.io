@@ -1,0 +1,227 @@
+
+img:hover {
+  box-shadow: 0 0 10px 5px rgba(150, 140, 186, 0.5);
+  width: 35%;
+}
+
+ul
+{
+ 
+ list-style-type: disc;
+}
+
+h4 { text-align: left;
+    padding-left: 5%;
+    position: relative;
+    bottom: 0px;
+    
+    
+    
+    box-sizing: content-box;
+    }
+
+
+#headerinfo
+{ text-align: left;
+    padding-left: 5%;
+    position: relative;
+    bottom: 0px;
+    top: -20px;
+    box-sizing: content-box;
+    }
+
+
+
+
+h1 { text-align: left;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom:0%;
+    position: relative;
+    bottom: 0px;
+    top:
+    font-size:40px;
+    content-box;
+    }
+
+p 
+{ text-align: left;
+    
+     width: 70%; 
+     word-wrap:normal;
+    box-sizing: content-box;
+    }
+
+#open{
+    top:-80px; 
+    position:relative;
+    
+}
+
+table {
+    top:-70px; 
+    position:relative;
+    padding-left: 5%;
+     width: 74%; 
+     
+    word-wrap:normal;
+  
+     }
+
+
+       
+       
+#keyskills
+    {
+        display:block;position:relative;top:-19px;" rowspan="2"
+    }
+
+#edcol
+    {
+    display:block;position:relative;top:-268%;" rowspan="2"
+
+}
+
+
+   #exp
+{
+    position:relative;
+    top:-2288%;
+}
+
+
+#edu
+{
+    
+    text-align:left;
+}
+
+#education {
+   
+    list-style-type: none;
+}
+    
+
+#keys {
+    
+    text-align: left;
+}
+ 
+
+
+
+
+
+
+#toc
+{
+    list-style-type:none;
+    position: fixed;
+    bottom: 0px;
+    top: 100px;
+    left:76%;
+}
+
+
+#tocskil
+{
+    list-style-type:none;
+    position: fixed;
+    top:130px;
+    bottom: 0px;
+    left:76%;
+}
+
+#tocedu
+{
+    list-style-type:none;
+    position: fixed;
+    top:150px;
+    bottom: 0px;
+    left:76%;
+}
+
+
+#tocwork
+{
+    list-style-type:none;
+    position: fixed;
+    top:170px;
+    bottom: 0px;
+    left:76%;
+}
+
+#tocother
+{
+    list-style-type:none;
+    position: fixed;
+    top:190px;
+    bottom: 0px;
+    left:76%;
+}
+
+
+th {
+    
+    font-weight: normal;
+    border: 1px solid #cccccc;
+    height: 20px;
+    
+      }
+      
+td {
+    padding-left: 5%;
+      }
+
+#para1 {
+     padding-top: 1%;
+     display: grid;
+     grid-auto-columns: 50px;
+       }
+
+
+
+
+@keyframes colorize {
+    0% {
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+    }
+    100% {
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%);
+    }
+}
+
+@keyframes slidein {
+  from {
+    font-size: 100%;
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  75% {
+    font-size: 300%;
+    margin-left: 25%;
+    width: 150%;
+  }
+
+  to {
+    font-size: 100%;
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+@keyframes pichover {
+    from {
+        width: 100%
+        }
+
+  
+    to {
+        width: 150%
+  }
+}
+    
+    
